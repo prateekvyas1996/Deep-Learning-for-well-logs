@@ -23,5 +23,7 @@ Before running the notebook you must have following
 * Run the below command to install all
 
 `pip install numpy`
+
 `pip install pandas`
+
 `pip install lasio`
