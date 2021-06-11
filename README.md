@@ -1,5 +1,8 @@
 # Deep-Learning-for-well-logs
-
+How to use
+1. First download the repository
+2. open well_log_data_preparation.ipynb in jupyter notebook
+3. run the cells in notebook one by one.
 There are 2 jupyter notebook in the repository
 1. [well_log_data_preparation.ipynb](https://github.com/prateekvyas1996/Deep-Learning-for-well-logs/blob/master/well_log_data_preparation.ipynb)
 2. [log_data_prep_nonsacrifised.ipynb](https://github.com/prateekvyas1996/Deep-Learning-for-well-logs/blob/master/log_data_prep_nonsacrifised.ipynb)
